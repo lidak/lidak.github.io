@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: olidak
-email: animatio.dev@gmail.com
+email: oleksandr.lidak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello. Here's the place to share my thoughts about awesome world of Web.
   Let's get in touch.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: animatio1
+github_username:  lidak
 
 # Build settings
 markdown: kramdown
